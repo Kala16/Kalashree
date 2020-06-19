@@ -1,4 +1,4 @@
-# Kalashree A repository containing UML Diagrams regarding the Medical Assistance System.
+# Kalashree - repository containing UML Diagrams regarding the "Medical Assistance System".
 
 This repository contains the following diagrams:
 
