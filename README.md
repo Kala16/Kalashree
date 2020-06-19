@@ -2,7 +2,7 @@
 
 This repository contains the following diagrams:
 
-class.mdj - The class diagram.
+flow.mdj - The class diagram.
 
 sequence.mdj - The Sequence Diagram.
 
